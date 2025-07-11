@@ -11,7 +11,7 @@
 }
 
 .header{
-    background-image: url(/Assets/Hero-bg.png);
+    background-image: url(../Assets/Hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: -27px 0px;
