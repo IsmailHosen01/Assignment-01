@@ -118,3 +118,29 @@ main section {
   color: rgba(0, 0, 0, 0.5);
   margin: 0px;
 }
+
+/* Touch section */
+.touch{
+  display: flex;
+  gap: 115px;
+}
+.touch h2{
+  font-size: 97px;
+  font-weight: bold;
+}
+.touch label{
+  display: block;
+  font-size: 18px;
+}
+.touch input[type="text"], .touch input[type="email"], .touch textarea{
+  display: block;
+  width: 490px;
+  padding: 20px 32px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.touch input[type="submit"]{
+  width: 100%;
+}
